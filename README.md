@@ -11,4 +11,7 @@ Public sentiments are different among locations. By knowing where to start couns
 
 We propose solutions to improve the communication strategy of health organizations and build a location-based community of engaged influencers that support the dissemination of scientific insights, including issues related to vaccines and their safety. All in all, this technology will help the government to win its society so that they want to be vaccinated.
 
+Full Documentation 
+https://docs.google.com/document/d/1Q_HlejsYRR4OmrXE1JCWHGjjNjvSQXo-3ZI8CoNkhfY/edit?usp=sharing
+
 
